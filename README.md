@@ -15,6 +15,6 @@ Repository codes:
 4. ARIMAX: ARIMAX algorithm
 5. SARIMAX: SARIMAX algorithm
 6. LSTM_timeseries: LSTM algorithm
-7. ANN: artificial neural network algorithm
+7. ANN: artificial neural network algorithm together with implemented GUI
 8. ANN_2019: artificial neural network algorithm only with the use of 2019 dataset
 
